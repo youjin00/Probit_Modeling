@@ -73,13 +73,14 @@ Model D, incorporating the yield forecasting coefficient, proved to be the most 
 
 수익률 예측 계수를 포함한 모델 D는 경기 침체 예측에 가장 효과적인 것으로 입증되었습니다. 미국과 한국의 모델 성능 차이는 지역별 조정과 고려가 필요함을 시사합니다.
 
-## Usage
-```python
-```
+---
+
+## Contribution
+To contribute, please open an issue or submit a pull request.
+
+기여를 원하시면 이슈를 등록하거나 PR을 제출해 주세요
 
 ## License
 This project is licensed under the MIT License.
-
----
 
 이 프로젝트는 MIT 라이선스를 따릅니다.
