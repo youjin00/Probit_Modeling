@@ -28,6 +28,8 @@ The project focuses on the predictive power of the inversion of long-term and sh
 3. **Model C**: Adds the real Federal Funds Rate to Model B.
 4. **Model D**: Adds the yield forecasting coefficient to Model B.
 
+---
+
 1. **모델 A**: 10년과 3개월 만기 국채의 금리 스프레드를 사용합니다.
 2. **모델 B**: 모델 A에 명목 연방기금금리를 추가합니다.
 3. **모델 C**: 모델 B에 실질 연방기금금리를 추가합니다.
